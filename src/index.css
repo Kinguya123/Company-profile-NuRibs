@@ -1,0 +1,8 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;font-size:16px}
+body{background:#f9eddd;overflow-x:hidden;font-family:'Noto Sans JP',sans-serif}
+button{cursor:pointer;border:none;background:none;font-family:'Noto Sans JP',sans-serif}
+input,select,textarea{font-family:'Noto Sans JP',sans-serif}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:#f9eddd}
+::-webkit-scrollbar-thumb{background:#ef0024;border-radius:3px}

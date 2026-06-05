@@ -149,7 +149,7 @@ export default function App() {
     <div style={{display:"flex",alignItems:"center",gap:".75rem"}}>
       {/* ── BAGIAN LOGO GAMBAR ── */}
     <img 
-      src="public/images/logo-nuribs.jpg" // Ganti dengan path atau URL gambar logo Anda
+      src="/images/logo-nuribs.jpg" // Ganti dengan path atau URL gambar logo Anda
       alt="Logo Nu Ribs" 
       style={{
         width: 44, 
